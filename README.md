@@ -2,7 +2,7 @@ lnmp(mysql5.7+nginx1.1+php7.2.6)最新编译安装
 /* *
  * 功能：lnmp(mysql5.7+nginx1.1+php7.2.6)最新编译安装
  * 版本：1.0
-
+ * 这是新添加的
  * aa
  * 作者：晓明（）
  * github：https://github.com/wxmwork
